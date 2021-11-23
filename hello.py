@@ -1,3 +1,4 @@
-for _ in range(10):
-    print("This is me from main branch")
+for j in range(10):
 
+if j == 1:
+    print("This is me from conflict1 and main branch".format(j))
